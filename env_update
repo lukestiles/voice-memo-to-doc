@@ -1,0 +1,7 @@
+# Place your values here and rename the file to .env
+CREDENTIALS_JSON=
+TOKEN_JSON=
+
+OPENAI_ORGANIZATION=
+OPENAI_PROJECT=
+OPENAI_API_KEY=
